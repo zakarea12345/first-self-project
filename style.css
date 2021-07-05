@@ -1,0 +1,101 @@
+.first{
+  background-color:#41228E;
+  color: white;
+  height: 500px;
+  margin-bottom: 80px;
+ 
+  
+}
+header{
+    margin-bottom: 100px;
+}
+header .right1{
+    
+    margin-right: 200px;
+    margin-top: -38px;
+}
+
+header .right1 ul li{
+    display: inline-block;
+    float: right;
+    
+}
+
+header .right1 ul li a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+   
+    
+}
+.first .heading h1{
+    margin-left: 200px;
+    font-size: 50px;
+    
+}
+.lorem{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 240px;
+    margin-bottom: 40px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.p1{
+    height: 150px;
+    width: 250px;
+    background-color: blue;
+    margin-left:20px;
+    padding: 20px;
+
+}
+.p2{
+    height: 150px;
+    width: 250px;
+    background-color: chartreuse;
+    margin-left:20px;
+    padding: 20px;
+}
+.p3{
+    height: 150px;
+    width: 250px;
+    background-color: red;
+    margin-left:20px;
+    padding: 20px;
+}
+.p4{
+    height: 150px;
+    width: 250px;
+    background-color: rgba(73, 80, 83, 0.644);
+    margin-left:20px;
+    padding: 20px;
+}
+.box{
+    display: flex;
+    padding: 20px;
+}
+.zaka{
+    display: flex;
+    margin-left: 40px;
+    
+}
+.l1{
+   width: 20%;
+   margin-left: 40px;
+}
+}
+.l2{
+    width: 20%;
+    margin-left: 80px;
+    
+}
+.l3{
+    width: 20%;
+    margin-left: 250px;
+}
+.l4{
+    width: 20%;
+    margin-left: 40px;
+}
